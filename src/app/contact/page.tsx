@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaPhoneSquare, FaEnvelope, FaGithub, FaLinkedin, FaInstagram, FaWhatsapp } from 'react-icons/fa';
+import { FaEnvelope, FaGithub, FaLinkedin, FaInstagram, FaWhatsapp } from 'react-icons/fa';
 
 function Page() {
   return (
